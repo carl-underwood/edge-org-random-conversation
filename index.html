@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Edge Random Conversation</title>
+  </head>
+
+  <body>
+    <main class="p-5 prose text-center mx-auto" x-data>
+      <h1>Edge Random Conversation 🎲🗣️</h1>
+      <button
+        @click="$store.conversationStore.pickRandomConversation"
+        class="btn btn-primary"
+      >
+        Pick another
+      </button>
+      <div
+        class="p-5 flex flex-wrap sm:flex-nowrap gap-0 sm:gap-5 place-content-center"
+      >
+        <template x-if="$store.conversationStore.randomConversation.imageSrc">
+          <img
+            x-bind:src="$store.conversationStore.randomConversation.imageSrc"
+            class="place-self-center my-5!"
+          />
+        </template>
+        <p class="w-full place-self-center flex flex-col">
+          <template x-if="$store.conversationStore.randomConversation.topic">
+            <span
+              x-text="$store.conversationStore.randomConversation.topic"
+              class="text-xs uppercase"
+            ></span
+          ></template>
+          <a
+            x-bind:href="$store.conversationStore.randomConversation.url"
+            x-text="$store.conversationStore.randomConversation.title"
+            target="_blank"
+          ></a>
+          <template x-if="$store.conversationStore.randomConversation.subTitle">
+            <span
+              x-text="$store.conversationStore.randomConversation.subTitle"
+            ></span
+          ></template>
+          <template x-if="$store.conversationStore.randomConversation.byline">
+            <span
+              x-text="$store.conversationStore.randomConversation.byline"
+            ></span
+          ></template>
+          <template
+            x-if="$store.conversationStore.randomConversation.contributors"
+          >
+            <span
+              x-text="$store.conversationStore.randomConversation.contributors"
+            ></span
+          ></template>
+        </p>
+      </div>
+    </main>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
