@@ -3,7 +3,7 @@
 {
   "name": "Node",
   // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-  "image": "mcr.microsoft.com/playwright:v1.49.0-jammy",
+  "image": "mcr.microsoft.com/playwright:v1.57.0-noble",
   "features": {
     "ghcr.io/devcontainers/features/node:1": {
       "version": "lts"
@@ -11,7 +11,11 @@
   },
   "customizations": {
     "vscode": {
-      "extensions": ["ms-playwright.playwright", "esbenp.prettier-vscode"]
+      "extensions": [
+        "ms-playwright.playwright",
+        "esbenp.prettier-vscode",
+        "pflannery.vscode-versionlens"
+      ]
     }
   }
 

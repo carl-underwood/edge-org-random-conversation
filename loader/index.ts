@@ -38,12 +38,14 @@ const iteratePages = async (page: Page) => {
 const loadConversationsOnPage = async (page: Page) => {
   for (const conversation of await page.locator("tr.conversation").all()) {
     const conversationTitle = conversation.locator(".conversation-title");
-    const title = await conversationTitle.textContent();
+    const title = (await conversationTitle.textContent())?.trim();
     if (!title) {
       throw new Error("Encountered conversation with no title!");
     }
 
-    const href = await conversationTitle.locator("a").getAttribute("href");
+    const href = (
+      await conversationTitle.locator("a").getAttribute("href")
+    )?.trim();
     if (!href) {
       throw new Error(`Could not find url for conversation "${title}"`);
     }
@@ -55,15 +57,17 @@ const loadConversationsOnPage = async (page: Page) => {
 
     conversations.push({
       imageSrc,
-      topic: await conversation.locator(".topic").textContent(),
+      topic: (await conversation.locator(".topic").textContent())?.trim() || "",
       title,
-      subtitle: await conversation.locator(".sub-title").textContent(),
-      byline: (await conversation.locator(".byline").allTextContents()).join(
-        " ",
-      ),
-      contributors: await conversation
-        .locator(".contributor-list")
-        .textContent(),
+      subtitle:
+        (await conversation.locator(".sub-title").textContent())?.trim() || "",
+      byline: (await conversation.locator(".byline").allTextContents())
+        .join(" ")
+        .trim(),
+      contributors:
+        (
+          await conversation.locator(".contributor-list").textContent()
+        )?.trim() || "",
       url: `https://www.edge.org${href}`,
     });
 
