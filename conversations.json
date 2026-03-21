@@ -271,15 +271,6 @@
   },
   {
     "imageSrc": null,
-    "topic": "Special Events",
-    "title": "Humans: Doing More With Less",
-    "subtitle": "",
-    "byline": "A Talk By Tom  Griffiths [7.16.19]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/tom_griffiths-humans-doing-more-with-less"
-  },
-  {
-    "imageSrc": null,
     "topic": "TECHNOLOGY",
     "title": "Polythetics and the Boeing 737 MAX",
     "subtitle": "",
@@ -452,15 +443,6 @@
   {
     "imageSrc": null,
     "topic": "Conversations",
-    "title": "Biological and Cultural Evolution",
-    "subtitle": "Six Characters in Search of an Author",
-    "byline": "An EDGE Original Essay By Freeman  Dyson [2.19.19]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/freeman_dyson-biological-and-cultural-evolution"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
     "title": "Possible Minds: 25 Ways of Looking at AI",
     "subtitle": "Chapter 5 - \"What Can We Do?\" - First Serial on Wired",
     "byline": "A Conversation With Daniel C. Dennett [2.19.19]",
@@ -470,11 +452,11 @@
   {
     "imageSrc": null,
     "topic": "Conversations",
-    "title": "Possible Minds: 25 Ways of Looking at AI",
-    "subtitle": "Chapter 23 - \"The Rights of Machines\" - First Serial on Medium",
-    "byline": "George  Church [2.12.19]",
+    "title": "Biological and Cultural Evolution",
+    "subtitle": "Six Characters in Search of an Author",
+    "byline": "An EDGE Original Essay By Freeman  Dyson [2.19.19]",
     "contributors": "",
-    "url": "https://www.edge.org/conversation/george_church-possible-minds-25-ways-of-looking-at-ai"
+    "url": "https://www.edge.org/conversation/freeman_dyson-biological-and-cultural-evolution"
   },
   {
     "imageSrc": null,
@@ -484,6 +466,15 @@
     "byline": "George  Dyson [2.12.19]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/george_dyson-the-third-law"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Possible Minds: 25 Ways of Looking at AI",
+    "subtitle": "Chapter 23 - \"The Rights of Machines\" - First Serial on Medium",
+    "byline": "George  Church [2.12.19]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/george_church-possible-minds-25-ways-of-looking-at-ai"
   },
   {
     "imageSrc": null,
@@ -704,6 +695,15 @@
   {
     "imageSrc": null,
     "topic": "Conversations",
+    "title": "Schirrmacher's Heritage",
+    "subtitle": "",
+    "byline": "By Andrian  Kreye [2.14.18]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/andrian_kreye-schirrmachers-heritage"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
     "title": "John Perry Barlow (1947-2018)",
     "subtitle": "",
     "byline": "By  George  Dyson [2.14.18]",
@@ -718,15 +718,6 @@
     "byline": "A Conversation With George  Church [2.14.18]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/george_church-church-speaks"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
-    "title": "Schirrmacher's Heritage",
-    "subtitle": "",
-    "byline": "By Andrian  Kreye [2.14.18]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/andrian_kreye-schirrmachers-heritage"
   },
   {
     "imageSrc": null,
@@ -757,6 +748,15 @@
   },
   {
     "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Where (or What) Is Today's Frontier?",
+    "subtitle": "Danny Hillis's 1991 EDGE Special Project, Reprised",
+    "byline": "John  Brockman [11.22.17]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/john_brockman-where-or-what-is-todays-frontier"
+  },
+  {
+    "imageSrc": null,
     "topic": "MIND",
     "title": "\"A Difference That Makes a Difference\"",
     "subtitle": "",
@@ -772,15 +772,6 @@
     "byline": "By John  Tooby [11.22.17]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/john_tooby-coalitional-instincts"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
-    "title": "Where (or What) Is Today's Frontier?",
-    "subtitle": "Danny Hillis's 1991 EDGE Special Project, Reprised",
-    "byline": "John  Brockman [11.22.17]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/john_brockman-where-or-what-is-todays-frontier"
   },
   {
     "imageSrc": null,
@@ -826,15 +817,6 @@
     "byline": "John  Brockman [8.29.17]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/john_brockman-philip-pushes-the-button"
-  },
-  {
-    "imageSrc": null,
-    "topic": "MIND",
-    "title": "Aerodynamics For Cognition",
-    "subtitle": "",
-    "byline": "A Conversation With Tom  Griffiths [8.21.17]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/tom_griffiths-aerodynamics-for-cognition"
   },
   {
     "imageSrc": null,
@@ -1126,21 +1108,21 @@
   },
   {
     "imageSrc": null,
-    "topic": "CULTURE",
-    "title": "Forming the Minds That Will Make the Future",
-    "subtitle": "The Reality Club Conversation Continues",
-    "byline": "A Response From Howard  Gardner [3.30.16]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/howard_gardner-forming-the-minds-that-will-make-the-future"
-  },
-  {
-    "imageSrc": null,
     "topic": "LIFE",
     "title": "The Augmented Human Being",
     "subtitle": "",
     "byline": "A Conversation With George  Church [3.30.16]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/george_church-the-augmented-human-being"
+  },
+  {
+    "imageSrc": null,
+    "topic": "CULTURE",
+    "title": "Forming the Minds That Will Make the Future",
+    "subtitle": "The Reality Club Conversation Continues",
+    "byline": "A Response From Howard  Gardner [3.30.16]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/howard_gardner-forming-the-minds-that-will-make-the-future"
   },
   {
     "imageSrc": null,
@@ -1540,6 +1522,42 @@
   },
   {
     "imageSrc": null,
+    "topic": "CULTURE",
+    "title": "Simone Schnall: \"Moral Intuitions, Replication, and the Scientific Study of Human Nature\"",
+    "subtitle": "HeadCon '14",
+    "byline": "Simone  Schnall [11.18.14]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/simone_schnall-simone-schnall-moral-intuitions-replication-and-the-scientific-study-of"
+  },
+  {
+    "imageSrc": null,
+    "topic": "CULTURE",
+    "title": "David Rand: \"How Do You Change People's Minds About What Is Right And Wrong?\"",
+    "subtitle": "HeadCon '14",
+    "byline": "David  Rand [11.18.14]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/david_rand-david-rand-how-do-you-change-peoples-minds-about-what-is-right-and-wrong"
+  },
+  {
+    "imageSrc": null,
+    "topic": "LIFE",
+    "title": "Michael McCullough: \"Two Cheers For Falsification\"",
+    "subtitle": "HeadCon '14",
+    "byline": "Michael  McCullough [11.18.14]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/michael_mccullough-michael-mccullough-two-cheers-for-falsification"
+  },
+  {
+    "imageSrc": null,
+    "topic": "CULTURE",
+    "title": "Jennifer Jacquet: \"Shaming At Scale\"",
+    "subtitle": "HeadCon '14",
+    "byline": "Jennifer  Jacquet [11.18.14]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/jennifer_jacquet-jennifer-jacquet-shaming-at-scale"
+  },
+  {
+    "imageSrc": null,
     "topic": "LIFE",
     "title": "Lawrence Ian Reed: \"The Face Of Emotion\"",
     "subtitle": "HeadCon '14",
@@ -1585,42 +1603,6 @@
   },
   {
     "imageSrc": null,
-    "topic": "CULTURE",
-    "title": "Simone Schnall: \"Moral Intuitions, Replication, and the Scientific Study of Human Nature\"",
-    "subtitle": "HeadCon '14",
-    "byline": "Simone  Schnall [11.18.14]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/simone_schnall-simone-schnall-moral-intuitions-replication-and-the-scientific-study-of"
-  },
-  {
-    "imageSrc": null,
-    "topic": "CULTURE",
-    "title": "David Rand: \"How Do You Change People's Minds About What Is Right And Wrong?\"",
-    "subtitle": "HeadCon '14",
-    "byline": "David  Rand [11.18.14]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/david_rand-david-rand-how-do-you-change-peoples-minds-about-what-is-right-and-wrong"
-  },
-  {
-    "imageSrc": null,
-    "topic": "LIFE",
-    "title": "Michael McCullough: \"Two Cheers For Falsification\"",
-    "subtitle": "HeadCon '14",
-    "byline": "Michael  McCullough [11.18.14]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/michael_mccullough-michael-mccullough-two-cheers-for-falsification"
-  },
-  {
-    "imageSrc": null,
-    "topic": "CULTURE",
-    "title": "Jennifer Jacquet: \"Shaming At Scale\"",
-    "subtitle": "HeadCon '14",
-    "byline": "Jennifer  Jacquet [11.18.14]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/jennifer_jacquet-jennifer-jacquet-shaming-at-scale"
-  },
-  {
-    "imageSrc": null,
     "topic": "News",
     "title": "THE ÉMINENCE GRISE",
     "subtitle": "",
@@ -1639,30 +1621,21 @@
   },
   {
     "imageSrc": null,
-    "topic": "CULTURE",
-    "title": "Jennifer Jacquet on Extinction",
-    "subtitle": "",
-    "byline": "A Talk By Jennifer  Jacquet [11.6.14]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/jennifer_jacquet-jennifer-jacquet-on-extinction"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
-    "title": "Edgies on Extinction",
-    "subtitle": "Part II: Edge, Live in London 2014",
-    "byline": "A Conversation With Helena  Cronin, Chiara  Marletto, Jennifer  Jacquet, Steve  Jones, Molly  Crockett, Hans Ulrich  Obrist [11.6.14]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/helena_cronin-chiara_marletto-jennifer_jacquet-steve_jones-molly_crockett-hans_ulrich"
-  },
-  {
-    "imageSrc": null,
     "topic": "Conversations",
     "title": "Helena Cronin on Extinction",
     "subtitle": "",
     "byline": "A Talk By Helena  Cronin [11.6.14]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/helena_cronin-helena-cronin-on-extinction"
+  },
+  {
+    "imageSrc": null,
+    "topic": "UNIVERSE",
+    "title": "Chiara Marletto on Extinction",
+    "subtitle": "",
+    "byline": "A Conversation With Chiara  Marletto [11.6.14]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/chiara_marletto-chiara-marletto-on-extinction"
   },
   {
     "imageSrc": null,
@@ -1684,12 +1657,21 @@
   },
   {
     "imageSrc": null,
-    "topic": "UNIVERSE",
-    "title": "Chiara Marletto on Extinction",
+    "topic": "CULTURE",
+    "title": "Jennifer Jacquet on Extinction",
     "subtitle": "",
-    "byline": "A Conversation With Chiara  Marletto [11.6.14]",
+    "byline": "A Talk By Jennifer  Jacquet [11.6.14]",
     "contributors": "",
-    "url": "https://www.edge.org/conversation/chiara_marletto-chiara-marletto-on-extinction"
+    "url": "https://www.edge.org/conversation/jennifer_jacquet-jennifer-jacquet-on-extinction"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Edgies on Extinction",
+    "subtitle": "Part II: Edge, Live in London 2014",
+    "byline": "A Conversation With Helena  Cronin, Chiara  Marletto, Jennifer  Jacquet, Steve  Jones, Molly  Crockett, Hans Ulrich  Obrist [11.6.14]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/helena_cronin-chiara_marletto-jennifer_jacquet-steve_jones-molly_crockett-hans_ulrich"
   },
   {
     "imageSrc": null,
@@ -1802,6 +1784,15 @@
   {
     "imageSrc": null,
     "topic": "Conversations",
+    "title": "Frank Schirrmacher 1959-2014",
+    "subtitle": "",
+    "byline": "A Remembrance of Frank  Schirrmacher [6.18.14]",
+    "contributors": "Contributor(s): Jaron  Lanier, George  Dyson",
+    "url": "https://www.edge.org/conversation/frank_schirrmacher-frank-schirrmacher-1959-2014"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
     "title": "Farewell To My Friend Frank Schirrmacher",
     "subtitle": "",
     "byline": "An Obituary by  Hubert  Burda [6.18.14]",
@@ -1816,15 +1807,6 @@
     "byline": "Jordan  Mejias [6.18.14]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/jordan_mejias-maybe-he-was-the-only-true-futurist-humanist"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
-    "title": "Frank Schirrmacher 1959-2014",
-    "subtitle": "",
-    "byline": "A Remembrance of Frank  Schirrmacher [6.18.14]",
-    "contributors": "Contributor(s): Jaron  Lanier, George  Dyson",
-    "url": "https://www.edge.org/conversation/frank_schirrmacher-frank-schirrmacher-1959-2014"
   },
   {
     "imageSrc": null,
@@ -1972,21 +1954,21 @@
   },
   {
     "imageSrc": null,
-    "topic": "Conversations",
-    "title": "The World Mind That Came In From The Counter Culture",
-    "subtitle": "John Brockman: A Portrait",
-    "byline": "By Jordan  Mejias [1.10.14]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/jordan_mejias-the-world-mind-that-came-in-from-the-counter-culture"
-  },
-  {
-    "imageSrc": null,
     "topic": "Annual Questions",
     "title": "Announcing:",
     "subtitle": "",
     "byline": "Edited by John  Brockman [1.10.14]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/john_brockman-announcing"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "The World Mind That Came In From The Counter Culture",
+    "subtitle": "John Brockman: A Portrait",
+    "byline": "By Jordan  Mejias [1.10.14]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/jordan_mejias-the-world-mind-that-came-in-from-the-counter-culture"
   },
   {
     "imageSrc": null,
@@ -2558,15 +2540,6 @@
   {
     "imageSrc": null,
     "topic": "CULTURE",
-    "title": "SCIENCE IS THE ONLY NEWS",
-    "subtitle": "",
-    "byline": "featuring George  Dyson, Brian  Eno, Daniel L. Everett, Sam  Harris, Hans Ulrich  Obrist, Dimitar D. Sasselov, Christopher  Stringer, Elaine  Pagels, Jonathan  Haidt [3.12.12]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/george_dyson-brian_eno-daniel_l_everett-sam_harris-hans_ulrich_obrist-dimitar_d"
-  },
-  {
-    "imageSrc": null,
-    "topic": "CULTURE",
     "title": "EDGE VIDEOS",
     "subtitle": "",
     "byline": "John  Brockman [3.12.12]",
@@ -2584,12 +2557,12 @@
   },
   {
     "imageSrc": null,
-    "topic": "TECHNOLOGY",
-    "title": "\"What do you think Marshall McLuhan would have said about ebooks?How do they change the message of books?\"",
+    "topic": "CULTURE",
+    "title": "SCIENCE IS THE ONLY NEWS",
     "subtitle": "",
-    "byline": "Eva  Wisten [2.21.12]",
-    "contributors": "Contributor(s): Douglas  Rushkoff, Clay  Shirky, Nicholas G. Carr",
-    "url": "https://www.edge.org/conversation/eva_wisten-what-do-you-think-marshall-mcluhan-would-have-said-about-ebookshow-do-they"
+    "byline": "featuring George  Dyson, Brian  Eno, Daniel L. Everett, Sam  Harris, Hans Ulrich  Obrist, Dimitar D. Sasselov, Christopher  Stringer, Elaine  Pagels, Jonathan  Haidt [3.12.12]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/george_dyson-brian_eno-daniel_l_everett-sam_harris-hans_ulrich_obrist-dimitar_d"
   },
   {
     "imageSrc": null,
@@ -2599,6 +2572,15 @@
     "byline": "A Conversation with Vilayanur  Ramachandran [2.21.12]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/vilayanur_ramachandran-adventures-in-behavioral-neurology%E2%80%94or%E2%80%94what-neurology-can-tell-us"
+  },
+  {
+    "imageSrc": null,
+    "topic": "TECHNOLOGY",
+    "title": "\"What do you think Marshall McLuhan would have said about ebooks?How do they change the message of books?\"",
+    "subtitle": "",
+    "byline": "Eva  Wisten [2.21.12]",
+    "contributors": "Contributor(s): Douglas  Rushkoff, Clay  Shirky, Nicholas G. Carr",
+    "url": "https://www.edge.org/conversation/eva_wisten-what-do-you-think-marshall-mcluhan-would-have-said-about-ebookshow-do-they"
   },
   {
     "imageSrc": null,
@@ -2674,21 +2656,21 @@
   },
   {
     "imageSrc": null,
-    "topic": "CULTURE",
-    "title": "A Rough Mix",
-    "subtitle": "",
-    "byline": "An Edge Conversation with Brian  Eno, Jennifer  Jacquet [11.22.11] Introduction by:  John  Brockman",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/brian_eno-jennifer_jacquet-a-rough-mix"
-  },
-  {
-    "imageSrc": null,
     "topic": "UNIVERSE",
     "title": "Thinking About the Universe on the Larger Scales",
     "subtitle": "",
     "byline": "Raphael  Bousso [11.22.11] Introduction by:  Leonard  Susskind",
     "contributors": "",
     "url": "https://www.edge.org/conversation/raphael_bousso-thinking-about-the-universe-on-the-larger-scales"
+  },
+  {
+    "imageSrc": null,
+    "topic": "CULTURE",
+    "title": "A Rough Mix",
+    "subtitle": "",
+    "byline": "An Edge Conversation with Brian  Eno, Jennifer  Jacquet [11.22.11] Introduction by:  John  Brockman",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/brian_eno-jennifer_jacquet-a-rough-mix"
   },
   {
     "imageSrc": null,
@@ -2782,21 +2764,21 @@
   },
   {
     "imageSrc": null,
-    "topic": "MIND",
-    "title": "THE MARVELS AND THE FLAWS OF INTUITIVE THINKING: Edge Master Class 2011",
-    "subtitle": "",
-    "byline": "Daniel  Kahneman [9.12.11]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/daniel_kahneman-the-marvels-and-the-flaws-of-intuitive-thinking-edge-master-class-2011"
-  },
-  {
-    "imageSrc": null,
     "topic": "CULTURE",
     "title": "New Books from Edge",
     "subtitle": "",
     "byline": "John  Brockman [9.12.11]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/john_brockman-new-books-from-edge"
+  },
+  {
+    "imageSrc": null,
+    "topic": "MIND",
+    "title": "THE MARVELS AND THE FLAWS OF INTUITIVE THINKING: Edge Master Class 2011",
+    "subtitle": "",
+    "byline": "Daniel  Kahneman [9.12.11]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/daniel_kahneman-the-marvels-and-the-flaws-of-intuitive-thinking-edge-master-class-2011"
   },
   {
     "imageSrc": null,
@@ -3061,21 +3043,21 @@
   },
   {
     "imageSrc": null,
-    "topic": "TECHNOLOGY",
-    "title": "WHO GETS TO KEEP SECRETS?\tHillis's Question: An EdgeSpecial Event!",
-    "subtitle": "",
-    "byline": "W. Daniel Hillis [12.5.10]",
-    "contributors": "Contributor(s): W. Daniel Hillis, Clay  Shirky, Francesco  DePretis, Emanuel  Derman, John  Markoff, Dave  Winer, Nathan  Myhrvold, Nicholas G. Carr, Evgeny  Morozov, Esther  Dyson, David  Gelernter, W. Daniel Hillis, Nathan  Myhrvold, Dave  Winer, Esther  Dyson, Daniel C. Dennett, Nathan  Myhrvold, John  Markoff, Daniel  Kahneman, Nassim Nicholas Taleb, David  Gelernter, David  Berreby, Dave  Winer, Juan C. Zarate, Donald D. Hoffman, Jennifer  Jacquet, Ross  Anderson, Lee  Smolin, James J. O'Donnell, Marc  Rotenberg, Andrian  Kreye, Simona  Morini, George  Dyson, Douglas  Rushkoff, Noga  Arikha, George  Church, Gloria  Origgi, Clay  Shirky, Aalam  Wassef",
-    "url": "https://www.edge.org/conversation/w_daniel_hillis-who-gets-to-keep-secrets-hilliss-question-an-edgespecial-event"
-  },
-  {
-    "imageSrc": null,
     "topic": "MIND",
     "title": "A SENSE OF CLEANLINESS",
     "subtitle": "",
     "byline": "A Talk with Simone  Schnall [12.5.10]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/simone_schnall-a-sense-of-cleanliness"
+  },
+  {
+    "imageSrc": null,
+    "topic": "TECHNOLOGY",
+    "title": "WHO GETS TO KEEP SECRETS?\tHillis's Question: An EdgeSpecial Event!",
+    "subtitle": "",
+    "byline": "W. Daniel Hillis [12.5.10]",
+    "contributors": "Contributor(s): W. Daniel Hillis, Clay  Shirky, Francesco  DePretis, Emanuel  Derman, John  Markoff, Dave  Winer, Nathan  Myhrvold, Nicholas G. Carr, Evgeny  Morozov, Esther  Dyson, David  Gelernter, W. Daniel Hillis, Nathan  Myhrvold, Dave  Winer, Esther  Dyson, Daniel C. Dennett, Nathan  Myhrvold, John  Markoff, Daniel  Kahneman, Nassim Nicholas Taleb, David  Gelernter, David  Berreby, Dave  Winer, Juan C. Zarate, Donald D. Hoffman, Jennifer  Jacquet, Ross  Anderson, Lee  Smolin, James J. O'Donnell, Marc  Rotenberg, Andrian  Kreye, Simona  Morini, George  Dyson, Douglas  Rushkoff, Noga  Arikha, George  Church, Gloria  Origgi, Clay  Shirky, Aalam  Wassef",
+    "url": "https://www.edge.org/conversation/w_daniel_hillis-who-gets-to-keep-secrets-hilliss-question-an-edgespecial-event"
   },
   {
     "imageSrc": null,
@@ -3116,6 +3098,15 @@
   {
     "imageSrc": null,
     "topic": "MIND",
+    "title": "A New Science of Morality, Part 5",
+    "subtitle": "",
+    "byline": "Paul  Bloom [9.17.10] Introduction by:  Paul  Bloom",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/paul_bloom-a-new-science-of-morality-part-5"
+  },
+  {
+    "imageSrc": null,
+    "topic": "MIND",
     "title": "A New Science of Morality, Part 6",
     "subtitle": "",
     "byline": "David  Pizarro [9.17.10] Introduction by:  David  Pizarro",
@@ -3152,11 +3143,11 @@
   {
     "imageSrc": null,
     "topic": "MIND",
-    "title": "A New Science of Morality, Part 5",
+    "title": "A New Science of Morality, Part 2",
     "subtitle": "",
-    "byline": "Paul  Bloom [9.17.10] Introduction by:  Paul  Bloom",
+    "byline": "Joshua D. Greene [9.17.10]",
     "contributors": "",
-    "url": "https://www.edge.org/conversation/paul_bloom-a-new-science-of-morality-part-5"
+    "url": "https://www.edge.org/conversation/joshua_d_greene-a-new-science-of-morality-part-2"
   },
   {
     "imageSrc": null,
@@ -3175,15 +3166,6 @@
     "byline": "Elizabeth  Phelps [9.17.10]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/elizabeth_phelps-a-new-science-of-morality-part-7"
-  },
-  {
-    "imageSrc": null,
-    "topic": "MIND",
-    "title": "The New Science of Morality, Part 8",
-    "subtitle": "",
-    "byline": "Joshua  Knobe [9.17.10]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/joshua_knobe-the-new-science-of-morality-part-8"
   },
   {
     "imageSrc": null,
@@ -3404,6 +3386,24 @@
   {
     "imageSrc": null,
     "topic": "LIFE",
+    "title": "Darwin and the Evolution of Reasons",
+    "subtitle": "",
+    "byline": "A Talk by Daniel C. Dennett [9.30.09]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/daniel_c_dennett-darwin-and-the-evolution-of-reasons"
+  },
+  {
+    "imageSrc": null,
+    "topic": "LIFE",
+    "title": "Parallels between Economics and Evolution, or What Happens When Ideas Have Sex",
+    "subtitle": "A talk by",
+    "byline": "Matt  Ridley [9.30.09]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/matt_ridley-parallels-between-economics-and-evolution-or-what-happens-when-ideas-have"
+  },
+  {
+    "imageSrc": null,
+    "topic": "LIFE",
     "title": "Why Sex Differences Matter: The Darwinian Perspective",
     "subtitle": "",
     "byline": "Helena  Cronin [9.30.09]",
@@ -3445,24 +3445,6 @@
     "byline": "A talk by Nicholas  Humphrey [9.30.09]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/nicholas_humphrey-beautys-child-sexual-selection-nature-worship-and-the-love-of-god"
-  },
-  {
-    "imageSrc": null,
-    "topic": "LIFE",
-    "title": "Darwin and the Evolution of Reasons",
-    "subtitle": "",
-    "byline": "A Talk by Daniel C. Dennett [9.30.09]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/daniel_c_dennett-darwin-and-the-evolution-of-reasons"
-  },
-  {
-    "imageSrc": null,
-    "topic": "LIFE",
-    "title": "Parallels between Economics and Evolution, or What Happens When Ideas Have Sex",
-    "subtitle": "A talk by",
-    "byline": "Matt  Ridley [9.30.09]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/matt_ridley-parallels-between-economics-and-evolution-or-what-happens-when-ideas-have"
   },
   {
     "imageSrc": null,
@@ -4168,21 +4150,21 @@
   },
   {
     "imageSrc": null,
-    "topic": "CULTURE",
-    "title": "THE TRADESCANT'S ARK EXPERIMENT",
-    "subtitle": "",
-    "byline": "Timothy  Taylor [10.14.07]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/timothy_taylor-the-tradescants-ark-experiment"
-  },
-  {
-    "imageSrc": null,
     "topic": "UNIVERSE",
     "title": "WHAT BANGED?",
     "subtitle": "",
     "byline": "Neil  Turok [10.14.07]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/neil_turok-what-banged"
+  },
+  {
+    "imageSrc": null,
+    "topic": "CULTURE",
+    "title": "THE TRADESCANT'S ARK EXPERIMENT",
+    "subtitle": "",
+    "byline": "Timothy  Taylor [10.14.07]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/timothy_taylor-the-tradescants-ark-experiment"
   },
   {
     "imageSrc": null,
@@ -4286,6 +4268,24 @@
   {
     "imageSrc": null,
     "topic": "LIFE",
+    "title": "Dimitar Sasselov—LIFE: WHAT A CONCEPT!",
+    "subtitle": "An Edge Special Event at Eastover Farm",
+    "byline": "Dimitar D. Sasselov [8.27.07]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/dimitar_d_sasselov-dimitar-sasselov%E2%80%94life-what-a-concept"
+  },
+  {
+    "imageSrc": null,
+    "topic": "LIFE",
+    "title": "George Church—LIFE: WHAT A CONCEPT!",
+    "subtitle": "",
+    "byline": "George  Church [8.27.07]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/george_church-george-church%E2%80%94life-what-a-concept"
+  },
+  {
+    "imageSrc": null,
+    "topic": "LIFE",
     "title": "Craig Venter—LIFE: WHAT A CONCEPT!",
     "subtitle": "An Edge Special Event at Eastover Farm",
     "byline": "J. Craig Venter [8.27.07]",
@@ -4309,24 +4309,6 @@
     "byline": "Seth  Lloyd [8.27.07]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/seth_lloyd-seth-lloyd%E2%80%94life-what-a-concept"
-  },
-  {
-    "imageSrc": null,
-    "topic": "LIFE",
-    "title": "Dimitar Sasselov—LIFE: WHAT A CONCEPT!",
-    "subtitle": "An Edge Special Event at Eastover Farm",
-    "byline": "Dimitar D. Sasselov [8.27.07]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/dimitar_d_sasselov-dimitar-sasselov%E2%80%94life-what-a-concept"
-  },
-  {
-    "imageSrc": null,
-    "topic": "LIFE",
-    "title": "George Church—LIFE: WHAT A CONCEPT!",
-    "subtitle": "",
-    "byline": "George  Church [8.27.07]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/george_church-george-church%E2%80%94life-what-a-concept"
   },
   {
     "imageSrc": "https://www.edge.org/sites/default/files/styles/medium/public/conversation/leadimage/bk_691_alun-glacier-top500.jpg?itok=Q9X_rVpU",
@@ -4699,21 +4681,21 @@
   },
   {
     "imageSrc": null,
-    "topic": "CULTURE",
-    "title": "HOW PEOPLE SEE THEMSELVES",
-    "subtitle": "",
-    "byline": "By Hubert  Burda [11.9.06]",
-    "contributors": "Contributor(s): Douglas  Rushkoff, Jaron  Lanier, Philip  Zimbardo, Kai  Krause, Joseph \"Yossi\"  Vardi",
-    "url": "https://www.edge.org/conversation/hubert_burda-how-people-see-themselves"
-  },
-  {
-    "imageSrc": null,
     "topic": "UNIVERSE",
     "title": "MY EINSTEIN'S SUSPENDERS",
     "subtitle": "The 2006 Nobel Prize for Physics",
     "byline": "By George  Smoot [11.9.06]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/george_smoot-my-einsteins-suspenders"
+  },
+  {
+    "imageSrc": null,
+    "topic": "CULTURE",
+    "title": "HOW PEOPLE SEE THEMSELVES",
+    "subtitle": "",
+    "byline": "By Hubert  Burda [11.9.06]",
+    "contributors": "Contributor(s): Douglas  Rushkoff, Jaron  Lanier, Philip  Zimbardo, Kai  Krause, Joseph \"Yossi\"  Vardi",
+    "url": "https://www.edge.org/conversation/hubert_burda-how-people-see-themselves"
   },
   {
     "imageSrc": null,
@@ -4753,21 +4735,21 @@
   },
   {
     "imageSrc": null,
-    "topic": "CULTURE",
-    "title": "DEVOTED ACTOR VERSUS RATIONAL ACTOR MODELS FOR UNDERSTANDING WORLD CONFLICT",
-    "subtitle": "To The National Security Council At The White House, 14 September 2006, 3:30 pm",
-    "byline": "Presented By Scott  Atran [10.2.06]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/scott_atran-devoted-actor-versus-rational-actor-models-for-understanding-world-conflict"
-  },
-  {
-    "imageSrc": null,
     "topic": "TECHNOLOGY",
     "title": "STEWART BRAND MEETS THE CYBERNETIC COUNTERCULTURE",
     "subtitle": "",
     "byline": "By Fred  Turner [10.2.06]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/fred_turner-stewart-brand-meets-the-cybernetic-counterculture"
+  },
+  {
+    "imageSrc": null,
+    "topic": "CULTURE",
+    "title": "DEVOTED ACTOR VERSUS RATIONAL ACTOR MODELS FOR UNDERSTANDING WORLD CONFLICT",
+    "subtitle": "To The National Security Council At The White House, 14 September 2006, 3:30 pm",
+    "byline": "Presented By Scott  Atran [10.2.06]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/scott_atran-devoted-actor-versus-rational-actor-models-for-understanding-world-conflict"
   },
   {
     "imageSrc": null,
@@ -4834,21 +4816,21 @@
   },
   {
     "imageSrc": null,
-    "topic": "UNIVERSE",
-    "title": "COSMOLOGICAL EVOLUTION",
-    "subtitle": "",
-    "byline": "Lee  Smolin [5.30.06]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/lee_smolin-cosmological-evolution"
-  },
-  {
-    "imageSrc": null,
     "topic": "MIND",
     "title": "DECEIT AND SELF-DECEPTION",
     "subtitle": "",
     "byline": "Robert  Trivers [5.30.06]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/robert_trivers-deceit-and-self-deception"
+  },
+  {
+    "imageSrc": null,
+    "topic": "UNIVERSE",
+    "title": "COSMOLOGICAL EVOLUTION",
+    "subtitle": "",
+    "byline": "Lee  Smolin [5.30.06]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/lee_smolin-cosmological-evolution"
   },
   {
     "imageSrc": null,
@@ -5104,21 +5086,21 @@
   },
   {
     "imageSrc": null,
-    "topic": "CULTURE",
-    "title": "AN EPIDEMIOLOGY OF REPRESENTATIONS",
-    "subtitle": "",
-    "byline": "A Talk with Dan  Sperber [7.26.05]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/dan_sperber-an-epidemiology-of-representations"
-  },
-  {
-    "imageSrc": null,
     "topic": "UNIVERSE",
     "title": "GÖDEL AND THE NATURE OF MATHEMATICAL TRUTH II",
     "subtitle": "",
     "byline": "A Talk with Verena  Huber-Dyson [7.26.05]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/verena_huber_dyson-g%C3%B6del-and-the-nature-of-mathematical-truth-ii"
+  },
+  {
+    "imageSrc": null,
+    "topic": "CULTURE",
+    "title": "AN EPIDEMIOLOGY OF REPRESENTATIONS",
+    "subtitle": "",
+    "byline": "A Talk with Dan  Sperber [7.26.05]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/dan_sperber-an-epidemiology-of-representations"
   },
   {
     "imageSrc": null,
@@ -5401,21 +5383,21 @@
   },
   {
     "imageSrc": null,
-    "topic": "TECHNOLOGY",
-    "title": "BLACKOUT! We're All On The Grid Together",
-    "subtitle": "",
-    "byline": "Albert-lászló  Barabási [8.21.03]",
-    "contributors": "Contributor(s): Albert-lászló  Barabási",
-    "url": "https://www.edge.org/conversation/albert_l_szl_barab_si-blackout-were-all-on-the-grid-together"
-  },
-  {
-    "imageSrc": null,
     "topic": "MIND",
     "title": "THE MORAL SENSE TEST",
     "subtitle": "",
     "byline": "[8.21.03]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/the-moral-sense-test"
+  },
+  {
+    "imageSrc": null,
+    "topic": "TECHNOLOGY",
+    "title": "BLACKOUT! We're All On The Grid Together",
+    "subtitle": "",
+    "byline": "Albert-lászló  Barabási [8.21.03]",
+    "contributors": "Contributor(s): Albert-lászló  Barabási",
+    "url": "https://www.edge.org/conversation/albert_l_szl_barab_si-blackout-were-all-on-the-grid-together"
   },
   {
     "imageSrc": null,
@@ -5536,21 +5518,21 @@
   },
   {
     "imageSrc": null,
-    "topic": "UNIVERSE",
-    "title": "LOOP QUANTUM GRAVITY: LEE SMOLIN",
-    "subtitle": "",
-    "byline": "Lee  Smolin [2.23.03]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/lee_smolin-loop-quantum-gravity-lee-smolin"
-  },
-  {
-    "imageSrc": null,
     "topic": "CULTURE",
     "title": "On Scanner Photography",
     "subtitle": "",
     "byline": "About Katinka  Matson [2.23.03]",
     "contributors": "Contributor(s): George  Dyson, William H. Calvin, Nicholas  Humphrey, Colin  Tudge",
     "url": "https://www.edge.org/conversation/katinka_matson-on-scanner-photography"
+  },
+  {
+    "imageSrc": null,
+    "topic": "UNIVERSE",
+    "title": "LOOP QUANTUM GRAVITY: LEE SMOLIN",
+    "subtitle": "",
+    "byline": "Lee  Smolin [2.23.03]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/lee_smolin-loop-quantum-gravity-lee-smolin"
   },
   {
     "imageSrc": null,
@@ -5591,20 +5573,20 @@
   {
     "imageSrc": null,
     "topic": "UNIVERSE",
-    "title": "THE CYCLIC UNIVERSE: PAUL STEINHARDT",
-    "subtitle": "",
-    "byline": "A Conversation with Paul J. Steinhardt [11.19.02]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/paul_j_steinhardt-the-cyclic-universe-paul-steinhardt"
-  },
-  {
-    "imageSrc": null,
-    "topic": "UNIVERSE",
     "title": "THE INFLATIONARY UNIVERSE",
     "subtitle": "",
     "byline": "by Alan  Guth [11.19.02]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/alan_guth-the-inflationary-universe"
+  },
+  {
+    "imageSrc": null,
+    "topic": "UNIVERSE",
+    "title": "THE CYCLIC UNIVERSE: PAUL STEINHARDT",
+    "subtitle": "",
+    "byline": "A Conversation with Paul J. Steinhardt [11.19.02]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/paul_j_steinhardt-the-cyclic-universe-paul-steinhardt"
   },
   {
     "imageSrc": null,
@@ -5680,6 +5662,15 @@
   },
   {
     "imageSrc": null,
+    "topic": "TECHNOLOGY",
+    "title": "BEYOND COMPUTATION",
+    "subtitle": "",
+    "byline": "A TALK WITH Rodney A. Brooks [6.3.02]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/rodney_a_brooks-beyond-computation"
+  },
+  {
+    "imageSrc": null,
     "topic": "CULTURE",
     "title": "A MUTUAL, JOINT-STOCK WORLD IN ALL MERIDIANS",
     "subtitle": "",
@@ -5695,15 +5686,6 @@
     "byline": "by Katinka  Matson [6.3.02] Introduction by:  Kevin  Kelly",
     "contributors": "",
     "url": "https://www.edge.org/conversation/katinka_matson-twelve-flowers-by-katinka-matson"
-  },
-  {
-    "imageSrc": null,
-    "topic": "TECHNOLOGY",
-    "title": "BEYOND COMPUTATION",
-    "subtitle": "",
-    "byline": "A TALK WITH Rodney A. Brooks [6.3.02]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/rodney_a_brooks-beyond-computation"
   },
   {
     "imageSrc": null,
@@ -5743,24 +5725,6 @@
   },
   {
     "imageSrc": null,
-    "topic": "MIND",
-    "title": "HOW DOES THE BRAIN GENERATE COMPUTATION?",
-    "subtitle": "",
-    "byline": "by  [12.2.01]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/how-does-the-brain-generate-computation"
-  },
-  {
-    "imageSrc": null,
-    "topic": "UNIVERSE",
-    "title": "A GOLDEN AGE OF COSMOLOGY",
-    "subtitle": "",
-    "byline": "A Conversation With Alan  Guth [12.2.01]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/alan_guth-a-golden-age-of-cosmology"
-  },
-  {
-    "imageSrc": null,
     "topic": "TECHNOLOGY",
     "title": "THE CENTRAL METAPHOR OF EVERYTHING?",
     "subtitle": "",
@@ -5785,6 +5749,24 @@
     "byline": "David  Gelernter [12.2.01]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/david_gelernter-streams"
+  },
+  {
+    "imageSrc": null,
+    "topic": "UNIVERSE",
+    "title": "A GOLDEN AGE OF COSMOLOGY",
+    "subtitle": "",
+    "byline": "A Conversation With Alan  Guth [12.2.01]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/alan_guth-a-golden-age-of-cosmology"
+  },
+  {
+    "imageSrc": null,
+    "topic": "MIND",
+    "title": "HOW DOES THE BRAIN GENERATE COMPUTATION?",
+    "subtitle": "",
+    "byline": "by  [12.2.01]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/how-does-the-brain-generate-computation"
   },
   {
     "imageSrc": null,
@@ -6094,21 +6076,21 @@
   },
   {
     "imageSrc": null,
-    "topic": "LIFE",
-    "title": "WHAT EVOLUTION IS",
-    "subtitle": "",
-    "byline": "A Conversation With Ernst  Mayr [12.31.99] Introduction by:  Jared  Diamond",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/ernst_mayr-what-evolution-is"
-  },
-  {
-    "imageSrc": null,
     "topic": "TECHNOLOGY",
     "title": "THE SECOND COMING — A MANIFESTO",
     "subtitle": "",
     "byline": "By David  Gelernter [12.31.99] Introduction by:  John  Brockman",
     "contributors": "Contributor(s): Stewart  Brand, David R. Ditzel, John C. Dvorak, Freeman  Dyson, George  Dyson, Douglas  Rushkoff, Rodney A. Brooks, Lee  Smolin, Jaron  Lanier, David  Farber, W. Daniel Hillis, Vinod  Khosla, John  Mccarthy",
     "url": "https://www.edge.org/conversation/david_gelernter-the-second-coming-%E2%80%94-a-manifesto"
+  },
+  {
+    "imageSrc": null,
+    "topic": "LIFE",
+    "title": "WHAT EVOLUTION IS",
+    "subtitle": "",
+    "byline": "A Conversation With Ernst  Mayr [12.31.99] Introduction by:  Jared  Diamond",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/ernst_mayr-what-evolution-is"
   },
   {
     "imageSrc": null,
@@ -6311,20 +6293,20 @@
   {
     "imageSrc": null,
     "topic": "MIND",
-    "title": "THE TWO STEVES (Part I)",
-    "subtitle": "A Debate",
-    "byline": "Steven  Rose, Steven  Pinker [3.24.98] Introduction by:  John  Brockman",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/steven_rose-steven_pinker-the-two-steves-part-i"
-  },
-  {
-    "imageSrc": null,
-    "topic": "MIND",
     "title": "THE TWO STEVES (Part II)",
     "subtitle": "Questions and Answers",
     "byline": "Steven  Rose, Steven  Pinker [3.24.98]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/steven_rose-steven_pinker-the-two-steves-part-ii"
+  },
+  {
+    "imageSrc": null,
+    "topic": "MIND",
+    "title": "THE TWO STEVES (Part I)",
+    "subtitle": "A Debate",
+    "byline": "Steven  Rose, Steven  Pinker [3.24.98] Introduction by:  John  Brockman",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/steven_rose-steven_pinker-the-two-steves-part-i"
   },
   {
     "imageSrc": null,
@@ -6608,78 +6590,6 @@
   {
     "imageSrc": null,
     "topic": "Conversations",
-    "title": "Digerati - Chapter 12",
-    "subtitle": "",
-    "byline": "By Mike  Godwin [10.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/mike_godwin-digerati-chapter-12"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
-    "title": "Digerati - Chapter 23",
-    "subtitle": "",
-    "byline": "By Kip  Parent [10.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/kip_parent-digerati-chapter-23"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
-    "title": "Digerati - Chapter 2",
-    "subtitle": "",
-    "byline": "By John Perry Barlow [10.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/john_perry_barlow-digerati-chapter-2"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
-    "title": "Digerati - Epilogue",
-    "subtitle": "",
-    "byline": "By Edge  Editor [10.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/edge_editor-digerati-epilogue"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
-    "title": "Digerati - Chapter 13",
-    "subtitle": "",
-    "byline": "By W. Daniel Hillis [10.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/w_daniel_hillis-digerati-chapter-13"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
-    "title": "Digerati - Chapter 24",
-    "subtitle": "",
-    "byline": "By Howard  Rheingold [10.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/howard_rheingold-digerati-chapter-24"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
-    "title": "Digerati - Chapter 3",
-    "subtitle": "",
-    "byline": "By Stewart  Brand [10.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/stewart_brand-digerati-chapter-3"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
-    "title": "Digerati - Cover",
-    "subtitle": "",
-    "byline": "By Edge  Editor [10.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/edge_editor-digerati-cover"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
     "title": "Digerati - Chapter 14",
     "subtitle": "",
     "byline": "A Conversation With David R. Johnson [10.1.96]",
@@ -6698,20 +6608,20 @@
   {
     "imageSrc": null,
     "topic": "Conversations",
-    "title": "Digerati - Chapter 4",
-    "subtitle": "",
-    "byline": "By David  Bunnell [10.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/david_bunnell-digerati-chapter-4"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
     "title": "Digerati - Copyright",
     "subtitle": "",
     "byline": "By Edge  Editor [10.1.96]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/edge_editor-digerati-copyright"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Digerati - Chapter 4",
+    "subtitle": "",
+    "byline": "By David  Bunnell [10.1.96]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/david_bunnell-digerati-chapter-4"
   },
   {
     "imageSrc": null,
@@ -6734,15 +6644,6 @@
   {
     "imageSrc": null,
     "topic": "Conversations",
-    "title": "Digerati - Chapter 5",
-    "subtitle": "",
-    "byline": "By Doug  Carlston [10.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/doug_carlston-digerati-chapter-5"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
     "title": "Digerati - Acknowledgements",
     "subtitle": "",
     "byline": "By Edge  Editor [10.1.96]",
@@ -6752,155 +6653,101 @@
   {
     "imageSrc": null,
     "topic": "Conversations",
-    "title": "Digerati - Chapter 8",
+    "title": "Digerati - Chapter 5",
     "subtitle": "",
-    "byline": "By John C. Dvorak [10.1.96]",
+    "byline": "By Doug  Carlston [10.1.96]",
     "contributors": "",
-    "url": "https://www.edge.org/conversation/john_c_dvorak-digerati-chapter-8"
+    "url": "https://www.edge.org/conversation/doug_carlston-digerati-chapter-5"
   },
   {
     "imageSrc": null,
     "topic": "Conversations",
-    "title": "Digerati - Chapter 19",
+    "title": "Digerati - Chapter 16",
     "subtitle": "",
-    "byline": "By John  Markoff [10.1.96]",
+    "byline": "By Kevin  Kelly [10.1.96]",
     "contributors": "",
-    "url": "https://www.edge.org/conversation/john_markoff-digerati-chapter-19"
+    "url": "https://www.edge.org/conversation/kevin_kelly-digerati-chapter-16"
   },
   {
     "imageSrc": null,
     "topic": "Conversations",
-    "title": "Digerati - Chapter 30",
+    "title": "Digerati - Chapter 27",
     "subtitle": "",
-    "byline": "By Lew  Tucker [10.1.96]",
+    "byline": "By Bob  Stein [10.1.96]",
     "contributors": "",
-    "url": "https://www.edge.org/conversation/lew_tucker-digerati-chapter-30"
+    "url": "https://www.edge.org/conversation/bob_stein-digerati-chapter-27"
   },
   {
     "imageSrc": null,
     "topic": "Conversations",
-    "title": "Digerati - Chapter 9",
-    "subtitle": "",
-    "byline": "By Esther  Dyson [10.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/esther_dyson-digerati-chapter-9"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
-    "title": "Digerati - Chapter 20",
-    "subtitle": "",
-    "byline": "By John  McCrea [10.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/john_mccrea-digerati-chapter-20"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
-    "title": "Digerati - Prologue",
+    "title": "Digerati - Dedication",
     "subtitle": "",
     "byline": "By Edge  Editor [10.1.96]",
     "contributors": "",
-    "url": "https://www.edge.org/conversation/edge_editor-digerati-prologue"
+    "url": "https://www.edge.org/conversation/edge_editor-digerati-dedication"
   },
   {
     "imageSrc": null,
     "topic": "Conversations",
-    "title": "Digerati - Chapter 31",
+    "title": "Digerati - Chapter 6",
     "subtitle": "",
-    "byline": "By Sherry  Turkle [10.1.96]",
+    "byline": "By Denise  Caruso [10.1.96]",
     "contributors": "",
-    "url": "https://www.edge.org/conversation/sherry_turkle-digerati-chapter-31"
+    "url": "https://www.edge.org/conversation/denise_caruso-digerati-chapter-6"
   },
   {
     "imageSrc": null,
     "topic": "Conversations",
-    "title": "Digerati - Chapter 10",
+    "title": "Digerati - Chapter 17",
     "subtitle": "",
-    "byline": "A Conversation With Bill  Gates [10.1.96]",
+    "byline": "By Jaron  Lanier [10.1.96]",
     "contributors": "",
-    "url": "https://www.edge.org/conversation/bill_gates-digerati-chapter-10"
+    "url": "https://www.edge.org/conversation/jaron_lanier-digerati-chapter-17"
   },
   {
     "imageSrc": null,
     "topic": "Conversations",
-    "title": "Digerati - Chapter 21",
+    "title": "Digerati - Chapter 28",
     "subtitle": "",
-    "byline": "By Scott  Mcnealy [10.1.96]",
+    "byline": "By Cliff  Stoll [10.1.96]",
     "contributors": "",
-    "url": "https://www.edge.org/conversation/scott_mcnealy-digerati-chapter-21"
+    "url": "https://www.edge.org/conversation/cliff_stoll-digerati-chapter-28"
   },
   {
     "imageSrc": null,
     "topic": "Conversations",
-    "title": "Digerati - Introduction",
+    "title": "Digerati - Books",
     "subtitle": "",
     "byline": "By Edge  Editor [10.1.96]",
     "contributors": "",
-    "url": "https://www.edge.org/conversation/edge_editor-digerati-introduction"
+    "url": "https://www.edge.org/conversation/edge_editor-digerati-books"
   },
   {
     "imageSrc": null,
     "topic": "Conversations",
-    "title": "Digerati - Chapter 32",
+    "title": "Digerati - Chapter 7",
     "subtitle": "",
-    "byline": "By Dave  Winer [10.1.96]",
+    "byline": "By Steve  Case [10.1.96]",
     "contributors": "",
-    "url": "https://www.edge.org/conversation/dave_winer-digerati-chapter-32"
+    "url": "https://www.edge.org/conversation/steve_case-digerati-chapter-7"
   },
   {
     "imageSrc": null,
     "topic": "Conversations",
-    "title": "Digerati - Chapter 11",
+    "title": "Digerati - Chapter 18",
     "subtitle": "",
-    "byline": "By David  Gelernter [10.1.96]",
+    "byline": "By Ted  Leonsis [10.1.96]",
     "contributors": "",
-    "url": "https://www.edge.org/conversation/david_gelernter-digerati-chapter-11"
+    "url": "https://www.edge.org/conversation/ted_leonsis-digerati-chapter-18"
   },
   {
     "imageSrc": null,
     "topic": "Conversations",
-    "title": "Digerati - Chapter 22",
+    "title": "Digerati - Chapter 29",
     "subtitle": "",
-    "byline": "By Jane  Metcalfe [10.1.96]",
+    "byline": "By Linda  Stone [10.1.96]",
     "contributors": "",
-    "url": "https://www.edge.org/conversation/jane_metcalfe-digerati-chapter-22"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
-    "title": "Digerati - Chapter 1",
-    "subtitle": "",
-    "byline": "By Stewart  Alsop [10.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/stewart_alsop-digerati-chapter-1"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
-    "title": "Digerati - Chapter 33",
-    "subtitle": "",
-    "byline": "By Richard Saul Wurman [10.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/richard_saul_wurman-digerati-chapter-33"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
-    "title": "Digerati - Chapter 12",
-    "subtitle": "",
-    "byline": "By Mike  Godwin [10.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/mike_godwin-digerati-chapter-12"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
-    "title": "Digerati - Chapter 23",
-    "subtitle": "",
-    "byline": "By Kip  Parent [10.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/kip_parent-digerati-chapter-23"
+    "url": "https://www.edge.org/conversation/linda_stone-digerati-chapter-29"
   },
   {
     "imageSrc": null,
@@ -6910,15 +6757,6 @@
     "byline": "By John Perry Barlow [10.1.96]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/john_perry_barlow-digerati-chapter-2"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
-    "title": "Digerati - Epilogue",
-    "subtitle": "",
-    "byline": "By Edge  Editor [10.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/edge_editor-digerati-epilogue"
   },
   {
     "imageSrc": null,
@@ -6941,20 +6779,20 @@
   {
     "imageSrc": null,
     "topic": "Conversations",
-    "title": "Digerati - Chapter 3",
-    "subtitle": "",
-    "byline": "By Stewart  Brand [10.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/stewart_brand-digerati-chapter-3"
-  },
-  {
-    "imageSrc": null,
-    "topic": "Conversations",
     "title": "Digerati - Cover",
     "subtitle": "",
     "byline": "By Edge  Editor [10.1.96]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/edge_editor-digerati-cover"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Digerati - Chapter 3",
+    "subtitle": "",
+    "byline": "By Stewart  Brand [10.1.96]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/stewart_brand-digerati-chapter-3"
   },
   {
     "imageSrc": null,
@@ -6973,6 +6811,231 @@
     "byline": "By Louis  Rossetto [10.1.96]",
     "contributors": "",
     "url": "https://www.edge.org/conversation/louis_rossetto-digerati-chapter-25"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Digerati - Copyright",
+    "subtitle": "",
+    "byline": "By Edge  Editor [10.1.96]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/edge_editor-digerati-copyright"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Digerati - Chapter 4",
+    "subtitle": "",
+    "byline": "By David  Bunnell [10.1.96]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/david_bunnell-digerati-chapter-4"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Digerati - Chapter 15",
+    "subtitle": "",
+    "byline": "By Brewster  Kahle [10.1.96]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/brewster_kahle-digerati-chapter-15"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Digerati - Chapter 26",
+    "subtitle": "",
+    "byline": "By Paul  Saffo [10.1.96]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/paul_saffo-digerati-chapter-26"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Digerati - Acknowledgements",
+    "subtitle": "",
+    "byline": "By Edge  Editor [10.1.96]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/edge_editor-digerati-acknowledgements"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Digerati - Chapter 5",
+    "subtitle": "",
+    "byline": "By Doug  Carlston [10.1.96]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/doug_carlston-digerati-chapter-5"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Digerati - Chapter 16",
+    "subtitle": "",
+    "byline": "By Kevin  Kelly [10.1.96]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/kevin_kelly-digerati-chapter-16"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Digerati - Chapter 27",
+    "subtitle": "",
+    "byline": "By Bob  Stein [10.1.96]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/bob_stein-digerati-chapter-27"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Digerati - Dedication",
+    "subtitle": "",
+    "byline": "By Edge  Editor [10.1.96]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/edge_editor-digerati-dedication"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Digerati - Chapter 6",
+    "subtitle": "",
+    "byline": "By Denise  Caruso [10.1.96]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/denise_caruso-digerati-chapter-6"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Digerati - Chapter 17",
+    "subtitle": "",
+    "byline": "By Jaron  Lanier [10.1.96]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/jaron_lanier-digerati-chapter-17"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Digerati - Chapter 28",
+    "subtitle": "",
+    "byline": "By Cliff  Stoll [10.1.96]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/cliff_stoll-digerati-chapter-28"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Digerati - Books",
+    "subtitle": "",
+    "byline": "By Edge  Editor [10.1.96]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/edge_editor-digerati-books"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Digerati - Chapter 7",
+    "subtitle": "",
+    "byline": "By Steve  Case [10.1.96]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/steve_case-digerati-chapter-7"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Digerati - Chapter 18",
+    "subtitle": "",
+    "byline": "By Ted  Leonsis [10.1.96]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/ted_leonsis-digerati-chapter-18"
+  },
+  {
+    "imageSrc": null,
+    "topic": "Conversations",
+    "title": "Digerati - Chapter 29",
+    "subtitle": "",
+    "byline": "By Linda  Stone [10.1.96]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/linda_stone-digerati-chapter-29"
+  },
+  {
+    "imageSrc": null,
+    "topic": "CULTURE",
+    "title": "Chapter 2\n\t\"THE PATTERN OF LIFE'S HISTORY\"",
+    "subtitle": "",
+    "byline": "Stephen Jay Gould [5.7.96]",
+    "contributors": "Contributor(s): Daniel C. Dennett, Evan  Williams, Steve  Jones, Brian  Goodwin, Nicholas  Humphrey, Steven  Pinker, J. Doyne  Farmer, Francisco  Varela, Murray  Gell-Mann, Niles  Eldredge, Marvin  Minsky, Stuart A. Kauffman",
+    "url": "https://www.edge.org/conversation/stephen_jay_gould-chapter-2-the-pattern-of-lifes-history"
+  },
+  {
+    "imageSrc": null,
+    "topic": "UNIVERSE",
+    "title": "Chapter 14 \"CONSCIOUSNESS INVOLVES NONCOMPUTABLE INGREDIENTS\"",
+    "subtitle": "",
+    "byline": "Roger  Penrose [5.7.96]",
+    "contributors": "Contributor(s): Roger  Schank, Marvin  Minsky, Murray  Gell-Mann, Lee  Smolin, Alan  Guth, Daniel C. Dennett, Richard  Dawkins, W. Daniel Hillis, Francisco  Varela, Steven  Pinker, Steve  Jones, Nicholas  Humphrey",
+    "url": "https://www.edge.org/conversation/roger_penrose-chapter-14-consciousness-involves-noncomputable-ingredients"
+  },
+  {
+    "imageSrc": null,
+    "topic": "CULTURE",
+    "title": "Chapter 4\n\t\"BIOLOGY IS JUST A DANCE\"",
+    "subtitle": "",
+    "byline": "Brian  Goodwin [5.7.96]",
+    "contributors": "Contributor(s): Francisco  Varela, Lynn  Margulis, Daniel C. Dennett, Nicholas  Humphrey, Richard  Dawkins, Steve  Jones, Stephen Jay Gould, Murray  Gell-Mann",
+    "url": "https://www.edge.org/conversation/brian_goodwin-chapter-4-biology-is-just-a-dance"
+  },
+  {
+    "imageSrc": null,
+    "topic": "UNIVERSE",
+    "title": "Chapter 15\n\t\"AN ENSEMBLE OF UNIVERSES\"",
+    "subtitle": "",
+    "byline": "Martin  Rees [5.7.96]",
+    "contributors": "Contributor(s): Nicholas  Humphrey, Alan  Guth, Lee  Smolin",
+    "url": "https://www.edge.org/conversation/martin_rees-chapter-15-an-ensemble-of-universes"
+  },
+  {
+    "imageSrc": null,
+    "topic": "TECHNOLOGY",
+    "title": "SOMETHING THAT GOES BEYOND OURSELVES",
+    "subtitle": "Chapter 23: Close To The Singularity",
+    "byline": "By W. Daniel Hillis [5.7.96]",
+    "contributors": "Contributor(s): Marvin  Minsky, Daniel C. Dennett, Christopher G. Langton, Francisco  Varela, Roger  Schank, Murray  Gell-Mann",
+    "url": "https://www.edge.org/conversation/w_daniel_hillis-something-that-goes-beyond-ourselves"
+  },
+  {
+    "imageSrc": null,
+    "topic": "UNIVERSE",
+    "title": "Chapter 16\n\t\"A UNIVERSE IN YOUR BACKYARD\"",
+    "subtitle": "",
+    "byline": "Alan  Guth [5.7.96]",
+    "contributors": "Contributor(s): Lee  Smolin, Martin  Rees",
+    "url": "https://www.edge.org/conversation/alan_guth-chapter-16-a-universe-in-your-backyard"
+  },
+  {
+    "imageSrc": null,
+    "topic": "UNIVERSE",
+    "title": "Chapter 18\n\t\"THE SYNTHETIC PATH\"",
+    "subtitle": "",
+    "byline": "By Paul  Davies [5.7.96] Introduction by:  Alan  Guth",
+    "contributors": "Contributor(s): Alan  Guth, Martin  Rees",
+    "url": "https://www.edge.org/conversation/paul_davies-chapter-18-the-synthetic-path"
+  },
+  {
+    "imageSrc": null,
+    "topic": "LIFE",
+    "title": "Chapter 6\n\t\"A BATTLE OF WORDS\"",
+    "subtitle": "",
+    "byline": "Niles  Eldredge [5.7.96]",
+    "contributors": "Contributor(s): W. Daniel Hillis, Lynn  Margulis, George C. Williams, Daniel C. Dennett, Stephen Jay Gould",
+    "url": "https://www.edge.org/conversation/niles_eldredge-chapter-6-a-battle-of-words"
+  },
+  {
+    "imageSrc": null,
+    "topic": "LIFE",
+    "title": "Chapter 13\n\t\"LANGUAGE IS A HUMAN INSTINCT\"",
+    "subtitle": "",
+    "byline": "Steven  Pinker [5.7.96]",
+    "contributors": "Contributor(s): Stephen Jay Gould, W. Daniel Hillis, Daniel C. Dennett, George C. Williams",
+    "url": "https://www.edge.org/conversation/steven_pinker-chapter-13-language-is-a-human-instinct"
   },
   {
     "imageSrc": null,
@@ -7012,93 +7075,75 @@
   },
   {
     "imageSrc": null,
-    "topic": "CULTURE",
-    "title": "Chapter 2\n\t\"THE PATTERN OF LIFE'S HISTORY\"",
-    "subtitle": "",
-    "byline": "Stephen Jay Gould [5.7.96]",
-    "contributors": "Contributor(s): Daniel C. Dennett, Evan  Williams, Steve  Jones, Brian  Goodwin, Nicholas  Humphrey, Steven  Pinker, J. Doyne  Farmer, Francisco  Varela, Murray  Gell-Mann, Niles  Eldredge, Marvin  Minsky, Stuart A. Kauffman",
-    "url": "https://www.edge.org/conversation/stephen_jay_gould-chapter-2-the-pattern-of-lifes-history"
-  },
-  {
-    "imageSrc": null,
-    "topic": "CULTURE",
-    "title": "Chapter 4\n\t\"BIOLOGY IS JUST A DANCE\"",
-    "subtitle": "",
-    "byline": "Brian  Goodwin [5.7.96]",
-    "contributors": "Contributor(s): Francisco  Varela, Lynn  Margulis, Daniel C. Dennett, Nicholas  Humphrey, Richard  Dawkins, Steve  Jones, Stephen Jay Gould, Murray  Gell-Mann",
-    "url": "https://www.edge.org/conversation/brian_goodwin-chapter-4-biology-is-just-a-dance"
-  },
-  {
-    "imageSrc": null,
-    "topic": "UNIVERSE",
-    "title": "Chapter 14 \"CONSCIOUSNESS INVOLVES NONCOMPUTABLE INGREDIENTS\"",
-    "subtitle": "",
-    "byline": "Roger  Penrose [5.7.96]",
-    "contributors": "Contributor(s): Roger  Schank, Marvin  Minsky, Murray  Gell-Mann, Lee  Smolin, Alan  Guth, Daniel C. Dennett, Richard  Dawkins, W. Daniel Hillis, Francisco  Varela, Steven  Pinker, Steve  Jones, Nicholas  Humphrey",
-    "url": "https://www.edge.org/conversation/roger_penrose-chapter-14-consciousness-involves-noncomputable-ingredients"
-  },
-  {
-    "imageSrc": null,
-    "topic": "UNIVERSE",
-    "title": "Chapter 15\n\t\"AN ENSEMBLE OF UNIVERSES\"",
-    "subtitle": "",
-    "byline": "Martin  Rees [5.7.96]",
-    "contributors": "Contributor(s): Nicholas  Humphrey, Alan  Guth, Lee  Smolin",
-    "url": "https://www.edge.org/conversation/martin_rees-chapter-15-an-ensemble-of-universes"
-  },
-  {
-    "imageSrc": null,
-    "topic": "TECHNOLOGY",
-    "title": "SOMETHING THAT GOES BEYOND OURSELVES",
-    "subtitle": "Chapter 23: Close To The Singularity",
-    "byline": "By W. Daniel Hillis [5.7.96]",
-    "contributors": "Contributor(s): Marvin  Minsky, Daniel C. Dennett, Christopher G. Langton, Francisco  Varela, Roger  Schank, Murray  Gell-Mann",
-    "url": "https://www.edge.org/conversation/w_daniel_hillis-something-that-goes-beyond-ourselves"
-  },
-  {
-    "imageSrc": null,
-    "topic": "UNIVERSE",
-    "title": "Chapter 16\n\t\"A UNIVERSE IN YOUR BACKYARD\"",
-    "subtitle": "",
-    "byline": "Alan  Guth [5.7.96]",
-    "contributors": "Contributor(s): Lee  Smolin, Martin  Rees",
-    "url": "https://www.edge.org/conversation/alan_guth-chapter-16-a-universe-in-your-backyard"
-  },
-  {
-    "imageSrc": null,
-    "topic": "LIFE",
-    "title": "Chapter 6\n\t\"A BATTLE OF WORDS\"",
-    "subtitle": "",
-    "byline": "Niles  Eldredge [5.7.96]",
-    "contributors": "Contributor(s): W. Daniel Hillis, Lynn  Margulis, George C. Williams, Daniel C. Dennett, Stephen Jay Gould",
-    "url": "https://www.edge.org/conversation/niles_eldredge-chapter-6-a-battle-of-words"
-  },
-  {
-    "imageSrc": null,
-    "topic": "UNIVERSE",
-    "title": "Chapter 18\n\t\"THE SYNTHETIC PATH\"",
-    "subtitle": "",
-    "byline": "By Paul  Davies [5.7.96] Introduction by:  Alan  Guth",
-    "contributors": "Contributor(s): Alan  Guth, Martin  Rees",
-    "url": "https://www.edge.org/conversation/paul_davies-chapter-18-the-synthetic-path"
-  },
-  {
-    "imageSrc": null,
-    "topic": "LIFE",
-    "title": "Chapter 13\n\t\"LANGUAGE IS A HUMAN INSTINCT\"",
-    "subtitle": "",
-    "byline": "Steven  Pinker [5.7.96]",
-    "contributors": "Contributor(s): Stephen Jay Gould, W. Daniel Hillis, Daniel C. Dennett, George C. Williams",
-    "url": "https://www.edge.org/conversation/steven_pinker-chapter-13-language-is-a-human-instinct"
-  },
-  {
-    "imageSrc": null,
     "topic": "UNIVERSE",
     "title": "Chapter 17\n\t\"A THEORY OF THE WHOLE UNIVERSE\"",
     "subtitle": "",
     "byline": "Lee  Smolin [5.2.96]",
     "contributors": "Contributor(s): Alan  Guth, Paul  Davies, Roger  Penrose, Murray  Gell-Mann, Martin  Rees",
     "url": "https://www.edge.org/conversation/lee_smolin-chapter-17-a-theory-of-the-whole-universe"
+  },
+  {
+    "imageSrc": null,
+    "topic": "LIFE",
+    "title": "Part One\tTHE EVOLUTIONARY IDEA",
+    "subtitle": "",
+    "byline": "John  Brockman [5.1.96]",
+    "contributors": "",
+    "url": "https://www.edge.org/conversation/john_brockman-part-one-the-evolutionary-idea"
+  },
+  {
+    "imageSrc": null,
+    "topic": "TECHNOLOGY",
+    "title": "Chapter 8\t\"SMART MACHINES\"",
+    "subtitle": "",
+    "byline": "Marvin  Minsky [5.1.96]",
+    "contributors": "Contributor(s): Daniel C. Dennett, Richard  Dawkins, Francisco  Varela, Steven  Pinker, Roger  Schank",
+    "url": "https://www.edge.org/conversation/marvin_minsky-chapter-8-smart-machines"
+  },
+  {
+    "imageSrc": null,
+    "topic": "LIFE",
+    "title": "Chapter 1\t\"A PACKAGE OF INFORMATION\"",
+    "subtitle": "",
+    "byline": "George C. Williams [5.1.96]",
+    "contributors": "Contributor(s): Daniel C. Dennett, Niles  Eldredge, Steven  Pinker, Lynn  Margulis, Richard  Dawkins, Stephen Jay Gould",
+    "url": "https://www.edge.org/conversation/george_c_williams-chapter-1-a-package-of-information"
+  },
+  {
+    "imageSrc": null,
+    "topic": "TECHNOLOGY",
+    "title": "Part Five\n\tSOMETHING THAT GOES BEYOND OURSELVES",
+    "subtitle": "",
+    "byline": "W. Daniel Hillis, John  Brockman [5.1.96]",
+    "contributors": "Contributor(s): Murray  Gell-Mann, Roger  Schank, Francisco  Varela, Christopher G. Langton, Daniel C. Dennett, Marvin  Minsky",
+    "url": "https://www.edge.org/conversation/w_daniel_hillis-john_brockman-part-five-something-that-goes-beyond-ourselves"
+  },
+  {
+    "imageSrc": null,
+    "topic": "LIFE",
+    "title": "Chapter 3\n\t\"A SURVIVAL MACHINE\"",
+    "subtitle": "",
+    "byline": "Richard  Dawkins [5.1.96]",
+    "contributors": "Contributor(s): Steve  Jones, Daniel C. Dennett, Stuart A. Kauffman, W. Daniel Hillis, Niles  Eldredge, Steven  Pinker, Brian  Goodwin, Marvin  Minsky, Lynn  Margulis, George C. Williams",
+    "url": "https://www.edge.org/conversation/richard_dawkins-chapter-3-a-survival-machine"
+  },
+  {
+    "imageSrc": null,
+    "topic": "LIFE",
+    "title": "Chapter 5\t\"WHY IS THERE SO MUCH GENETIC DIVERSITY\"",
+    "subtitle": "",
+    "byline": "A Conversation with Steve  Jones [5.1.96]",
+    "contributors": "Contributor(s): Stephen Jay Gould, Richard  Dawkins",
+    "url": "https://www.edge.org/conversation/steve_jones-chapter-5-why-is-there-so-much-genetic-diversity"
+  },
+  {
+    "imageSrc": null,
+    "topic": "LIFE",
+    "title": "Chapter 7\n\t\"GAIA IS A TOUGH BITCH\"",
+    "subtitle": "",
+    "byline": "Lynn  Margulis [5.1.96]",
+    "contributors": "Contributor(s): W. Daniel Hillis, Francisco  Varela, Richard  Dawkins, Niles  Eldredge, Marvin  Minsky, Lee  Smolin, George C. Williams, Daniel C. Dennett",
+    "url": "https://www.edge.org/conversation/lynn_margulis-chapter-7-gaia-is-a-tough-bitch"
   },
   {
     "imageSrc": null,
@@ -7120,24 +7165,6 @@
   },
   {
     "imageSrc": null,
-    "topic": "LIFE",
-    "title": "Part Four\n\tWHAT WAS DARWIN'S ALGORITHM?",
-    "subtitle": "",
-    "byline": "John  Brockman [5.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/john_brockman-part-four-what-was-darwins-algorithm"
-  },
-  {
-    "imageSrc": null,
-    "topic": "LIFE",
-    "title": "Chapter 21\n\t\"A DYNAMICAL PATTERN\"",
-    "subtitle": "",
-    "byline": "Christopher G. Langton [5.1.96]",
-    "contributors": "Contributor(s): Murray  Gell-Mann, Francisco  Varela, Daniel C. Dennett, W. Daniel Hillis, Richard  Dawkins, J. Doyne  Farmer, Stuart A. Kauffman",
-    "url": "https://www.edge.org/conversation/christopher_g_langton-chapter-21-a-dynamical-pattern"
-  },
-  {
-    "imageSrc": null,
     "topic": "UNIVERSE",
     "title": "Part Three\n\tQUESTIONS OF ORIGIN",
     "subtitle": "",
@@ -7148,11 +7175,11 @@
   {
     "imageSrc": null,
     "topic": "LIFE",
-    "title": "Part One\tTHE EVOLUTIONARY IDEA",
+    "title": "Part Four\n\tWHAT WAS DARWIN'S ALGORITHM?",
     "subtitle": "",
     "byline": "John  Brockman [5.1.96]",
     "contributors": "",
-    "url": "https://www.edge.org/conversation/john_brockman-part-one-the-evolutionary-idea"
+    "url": "https://www.edge.org/conversation/john_brockman-part-four-what-was-darwins-algorithm"
   },
   {
     "imageSrc": null,
@@ -7166,20 +7193,11 @@
   {
     "imageSrc": null,
     "topic": "LIFE",
-    "title": "Chapter 1\t\"A PACKAGE OF INFORMATION\"",
+    "title": "Chapter 21\n\t\"A DYNAMICAL PATTERN\"",
     "subtitle": "",
-    "byline": "George C. Williams [5.1.96]",
-    "contributors": "Contributor(s): Daniel C. Dennett, Niles  Eldredge, Steven  Pinker, Lynn  Margulis, Richard  Dawkins, Stephen Jay Gould",
-    "url": "https://www.edge.org/conversation/george_c_williams-chapter-1-a-package-of-information"
-  },
-  {
-    "imageSrc": null,
-    "topic": "TECHNOLOGY",
-    "title": "Part Two\n\tA COLLECTION OF KLUDGES",
-    "subtitle": "",
-    "byline": "John  Brockman [5.1.96]",
-    "contributors": "",
-    "url": "https://www.edge.org/conversation/john_brockman-part-two-a-collection-of-kludges"
+    "byline": "Christopher G. Langton [5.1.96]",
+    "contributors": "Contributor(s): Murray  Gell-Mann, Francisco  Varela, Daniel C. Dennett, W. Daniel Hillis, Richard  Dawkins, J. Doyne  Farmer, Stuart A. Kauffman",
+    "url": "https://www.edge.org/conversation/christopher_g_langton-chapter-21-a-dynamical-pattern"
   },
   {
     "imageSrc": null,
@@ -7189,42 +7207,6 @@
     "byline": "Richard  Dawkins [5.1.96]",
     "contributors": "Contributor(s): Steve  Jones, Daniel C. Dennett, Stuart A. Kauffman, W. Daniel Hillis, Niles  Eldredge, Steven  Pinker, Brian  Goodwin, Marvin  Minsky, Lynn  Margulis, George C. Williams",
     "url": "https://www.edge.org/conversation/richard_dawkins-chapter-3-a-survival-machine"
-  },
-  {
-    "imageSrc": null,
-    "topic": "TECHNOLOGY",
-    "title": "Chapter 8\t\"SMART MACHINES\"",
-    "subtitle": "",
-    "byline": "Marvin  Minsky [5.1.96]",
-    "contributors": "Contributor(s): Daniel C. Dennett, Richard  Dawkins, Francisco  Varela, Steven  Pinker, Roger  Schank",
-    "url": "https://www.edge.org/conversation/marvin_minsky-chapter-8-smart-machines"
-  },
-  {
-    "imageSrc": null,
-    "topic": "LIFE",
-    "title": "Chapter 5\t\"WHY IS THERE SO MUCH GENETIC DIVERSITY\"",
-    "subtitle": "",
-    "byline": "A Conversation with Steve  Jones [5.1.96]",
-    "contributors": "Contributor(s): Stephen Jay Gould, Richard  Dawkins",
-    "url": "https://www.edge.org/conversation/steve_jones-chapter-5-why-is-there-so-much-genetic-diversity"
-  },
-  {
-    "imageSrc": null,
-    "topic": "TECHNOLOGY",
-    "title": "Part Five\n\tSOMETHING THAT GOES BEYOND OURSELVES",
-    "subtitle": "",
-    "byline": "W. Daniel Hillis, John  Brockman [5.1.96]",
-    "contributors": "Contributor(s): Murray  Gell-Mann, Roger  Schank, Francisco  Varela, Christopher G. Langton, Daniel C. Dennett, Marvin  Minsky",
-    "url": "https://www.edge.org/conversation/w_daniel_hillis-john_brockman-part-five-something-that-goes-beyond-ourselves"
-  },
-  {
-    "imageSrc": null,
-    "topic": "LIFE",
-    "title": "Chapter 7\n\t\"GAIA IS A TOUGH BITCH\"",
-    "subtitle": "",
-    "byline": "Lynn  Margulis [5.1.96]",
-    "contributors": "Contributor(s): W. Daniel Hillis, Francisco  Varela, Richard  Dawkins, Niles  Eldredge, Marvin  Minsky, Lee  Smolin, George C. Williams, Daniel C. Dennett",
-    "url": "https://www.edge.org/conversation/lynn_margulis-chapter-7-gaia-is-a-tough-bitch"
   },
   {
     "imageSrc": null,
